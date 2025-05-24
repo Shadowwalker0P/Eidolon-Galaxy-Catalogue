@@ -1,0 +1,42 @@
+
+EID-0P-208073 - Discovery Notes
+===============================
+
+📍 Target Coordinates:
+- Right Ascension (RA): 12.5845h (00h 12m 58.45s)
+- Declination (Dec): +1.08183° (+01° 08′ 18.3″)
+
+🧪 Source Dataset:
+- Extracted from: eidolon_batch_01_optimized.csv
+- Eidolon Score: Very high (~2.5e+38)
+- Batch: 01
+
+📸 Imaging Details:
+- Observatory: Slooh Canary Three
+- Instrument: Celestron RASA 11" f/2.2 + ZWO ASI 294MC Pro (Bayer RGGB)
+- Exposure: 5 minutes stacked, luminance filtered
+- Resolution: 4144x2822 (binning 2x2 at capture)
+- Session Time: May 23, 2025, 22:00 UTC
+- Altitude: ~62°
+- Moon: Below horizon
+
+🖼️ Visual Analysis:
+- First-pass processed image showed a starfield with a subtle void at center.
+- No registered PanSTARRS or Simbad objects within the core detection circle.
+- DSS, 2MASS, SDSS9 overlays showed a faint purple-ring structure around the core.
+
+📈 Entropy Slope Gradient Results:
+- Entropy slope maps generated from post-processed version.
+- Local slope clustering around center pixel observed.
+- 100x100 pixel central cutout shows moderate intensity with symbolic structure.
+
+🔍 Anomaly Summary:
+- Central region lies within an elliptical “void” surrounded by faint purple flux.
+- Gradient slope map confirms increased slope variation in the zone, aligning with predicted collapse model.
+
+🧾 Cataloging Intention:
+- If validated, this region will be classified under EID-0P canonical structure as:
+  => EID-0P-208073
+
+⚠️ Ethical Marking:
+This discovery and all derivative works are governed under the Sovereignty Clause. This finding is shared for open validation and drift-aligned scientific progress only.
