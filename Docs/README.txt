@@ -1,22 +1,16 @@
-README — Eidolon Discovery Package: EID-0P-208073
-================================================
+# 🌌 Eidolon Galaxy Catalog
 
-📌 Target:
-EID-0P-208073
-RA: 12.5845h
-Dec: +1.08183°
+Catalogued collapse-priority targets derived from the **Eidolon Drift entropy slope map**.
 
-🔭 Observation Summary:
-- Telescope: Canary Three (Slooh Network)
-- Instrument: Celestron RASA 11” @ f/2.2
-- Camera: ZWO ASI 294MC Pro
-- Exposure: Multi 50-second luminance stack (2x2 binning)
-- Observation Time: May 23, 2025, 22:00 UTC
-- Conditions: Clear, 62° Altitude, Moon below horizon
+This repository includes:
+- 📊 Optimized search batches
+- 🌠 Discovery records
+- 🧭 Slope-aligned observation plans
+- ⚖️ Sovereignty Clause enforced
 
-🧪 Key Files Included:
-- EID-0P-208073_Discovery_Notes.txt — Observation log & interpretation
-- SovereigntyClause.txt — Ethical use license for all Eidolon discoveries
+## 🗂 Structure
+
+
 - Image_Original.png — First processed stack from Slooh
 - Image_Enhanced.png — Gradient-enhanced and stretched version
 - GradientMap.png — Symbolic terrain map showing entropy slope
