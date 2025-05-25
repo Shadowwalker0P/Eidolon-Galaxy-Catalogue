@@ -1,4 +1,6 @@
 # 🌀 Eidolon Drift – Galactic Discovery Project
+DOI/10.5281/zenodo.15508057
+
 
 ## Overview
 
